@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "老谈的思考"
+title                    : "世界是个怪圈"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "📚💡思考，就是看见可见之物，可见之物能让你看到未见之物，而这未见之物又让你看见了不可见之物。——诺曼·麦克林恩"
@@ -22,13 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "世界是个怪圈"
-  pronouns         : # example: "she/her"  
+  name             : "老谈的思考"
+  pronouns         : # example: "her"  
   bio              : "📚💡思考，就是看见可见之物，可见之物能让你看到未见之物，而这未见之物又让你看见了不可见之物。——诺曼·麦克林恩"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "浙江 杭州"
+  email            : "darren0927@126.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
